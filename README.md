@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahyar-abr
 - 👀 I’m interested in Web applications
-- 🌱 I’m currently learning Js
+- 🌱 I’m always learning
 - 📫 How to reach me? Dm me on telegram: https://t.me/Mahyarrba
 
 <!---
